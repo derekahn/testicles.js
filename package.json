@@ -1,0 +1,20 @@
+{
+  "name": "testicles",
+  "version": "0.0.1",
+  "description": "A testing library that require('penis.js')",
+  "main": "src/testicles.js",
+  "repository": "git@github.com:derekahn/testicles.js.git",
+  "author": "derek <git.derek@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/derekahn/testicles.js/issues"
+  },
+  "homepage": "https://github.com/derekahn/testicles.js",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "penis": "edankwan/penis.js"
+  }
+}
