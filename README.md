@@ -1,5 +1,5 @@
 # testicles.js
 
-A javascript testing library that require('penis.js')
+A javascript testing library that [require('penis.js');](https://github.com/edankwan/penis.js)
 
-> It takes big ⚾🏀s to TDD!
+> It takes ⚾🏀s to test!
